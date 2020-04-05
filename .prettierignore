@@ -76,3 +76,4 @@ ios/Podfile
 index.android.bundle
 *.plist
 *.gradle
+*.xml
