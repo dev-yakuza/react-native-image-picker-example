@@ -4,7 +4,7 @@
 - [설명](#설명)
 - [説明](#説明)
 
-![react-native-image-picker-example](https://github.com/dev-yakuza/react-native-image-picker-example/react-native-image-picker-example.png)
+![react-native-image-picker-example](https://raw.githubusercontent.com/dev-yakuza/react-native-image-picker-example/master/react-native-image-picker-example.png)
 
 ## Description
 
