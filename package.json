@@ -7,14 +7,15 @@
     "ios": "react-native run-ios",
     "start": "react-native start",
     "test": "jest",
-    "lint": "eslint --ext .tsx --ext .ts src/"
+    "lint": "eslint --ext .tsx --ext .ts src/",
+    "format": "prettier --check ./src"
   },
   "lint-staged": {
     "src/**/*.{ts,tsx}": [
       "eslint --ext .tsx --ext .ts src/ --fix"
     ],
     "*": [
-      "prettier --write ."
+      "prettier --write ./src"
     ]
   },
   "husky": {
