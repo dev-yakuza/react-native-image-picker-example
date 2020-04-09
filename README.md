@@ -14,14 +14,14 @@ This repository is an example about how to use `react-native-image-picker`.
 
 This example includes the following.
 
-- [typescript](https://dev-yakuza.github.io/ko/react-native/typescript/)
-- [ESLint, Prettier, Husky, lint-staged](https://dev-yakuza.github.io/ko/react-native/eslint-prettier-husky-lint-staged/)
-- [styled-components](https://dev-yakuza.github.io/ko/react-native/styled-components/)
-- [root-import](https://dev-yakuza.github.io/ko/react-native/root-import/)
+- [typescript](https://dev-yakuza.github.io/en/react-native/typescript/)
+- [ESLint, Prettier, Husky, lint-staged](https://dev-yakuza.github.io/en/react-native/eslint-prettier-husky-lint-staged/)
+- [styled-components](https://dev-yakuza.github.io/en/react-native/styled-components/)
+- [root-import](https://dev-yakuza.github.io/en/react-native/root-import/)
 
 There is a blog post about this repository. If you want to know details, see the link below.
 
-- [react-native-image-picker](https://dev-yakuza.github.io/ko/react-native/react-native-image-picker/)
+- [react-native-image-picker](https://dev-yakuza.github.io/en/react-native/react-native-image-picker/)
 
 ### How to use
 
@@ -100,14 +100,14 @@ npm run android
 
 この例題は下記の内容が適用された React Native を使います。
 
-- [typescript](https://dev-yakuza.github.io/ko/react-native/typescript/)
-- [ESLint, Prettier, Husky, lint-staged](https://dev-yakuza.github.io/ko/react-native/eslint-prettier-husky-lint-staged/)
-- [styled-components](https://dev-yakuza.github.io/ko/react-native/styled-components/)
-- [root-import](https://dev-yakuza.github.io/ko/react-native/root-import/)
+- [typescript](https://dev-yakuza.github.io/react-native/typescript/)
+- [ESLint, Prettier, Husky, lint-staged](https://dev-yakuza.github.io/react-native/eslint-prettier-husky-lint-staged/)
+- [styled-components](https://dev-yakuza.github.io/react-native/styled-components/)
+- [root-import](https://dev-yakuza.github.io/react-native/root-import/)
 
 このリポジトリ(Repository)を作る時、作成したブログポストがあります。詳しい内容は下記のリンクを参考してください。
 
-- [react-native-image-picker](https://dev-yakuza.github.io/ko/react-native/react-native-image-picker/)
+- [react-native-image-picker](https://dev-yakuza.github.io/react-native/react-native-image-picker/)
 
 ### 使い方
 
